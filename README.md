@@ -1,6 +1,6 @@
 # CNN_Cancer_Detection
 
-DTSA 5511 Mini Project
+DTSA 5511 Week 3 Mini Project
 
 ## Table of Contents
 1. Brief description of the problem and data
